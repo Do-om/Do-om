@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Do-om
 - 👀 I’m interested in c#
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on game projects
 - 📫 How to reach me abdullahakram2002@gmail.com
 
